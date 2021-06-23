@@ -1,6 +1,6 @@
 # JsonPowerDB
-Creating a Web Project in NetBeans
-Tools used:Netbean,Talend API Tester,JsonPowerDB
+Creating a Web Project in NetBeans.
+Tools used:Netbean IDE 12.3,Talend API Tester,JsonPowerDB
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
